@@ -28,6 +28,6 @@ cd /opt/spark/bin
 sudo chmod +x pyspark 
 sudo chmod +x spark-shell
 sudo chmod +x spark-submit
-
+cd ../sbin
 
 ./start-all.sh
